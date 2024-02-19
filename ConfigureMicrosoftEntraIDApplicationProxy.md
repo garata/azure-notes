@@ -1,4 +1,4 @@
-# Introduction
+# Configure Microsoft EntraID Application Proxy
 Azure Application Proxy è un servizio di Microsoft Azure che consente l'accesso remoto alle applicazioni da qualsiasi dispositivo dotato di browser web senza bisogno di una VPN. Fornisce un accesso sicuro alle applicazioni on-premises, implementando un Front-End PROXY che risponde alle richieste inviate direttamente al cloud di Azure.
 
 ## How does the Application Proxy work?
